@@ -11,4 +11,4 @@ The file follows the currency converted based on yahoo finance, addapted to conv
 
 Follows https://www.youtube.com/watch?v=8ext9G7xspg&t=1s
 
-Folder containing notebooks for all 12 projects of the video
+Folder containing notebooks for certain projects of the video; 
